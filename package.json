@@ -1,0 +1,19 @@
+{
+  "name": "hshackathon24",
+  "version": "1.0.0",
+  "description": "laura and stella hackathon 2024",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@datocms/cma-client-node": "^3.3.1",
+    "datocms-structured-text-to-plain-text": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
